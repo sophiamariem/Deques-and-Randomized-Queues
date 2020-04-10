@@ -36,6 +36,6 @@ See also:
 https://lift.cs.princeton.edu/java/linux/ for libs and steps to install
 ***
 
-javac-algs4 Permutation.java Deque.java RandomizedQueue.java
+`javac-algs4 Permutation.java Deque.java RandomizedQueue.java`
 
 ***
